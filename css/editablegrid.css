@@ -1,0 +1,39 @@
+td.number {
+	text-align: right;
+	/*font-weight: bold;*/
+	font-weight: normal;
+	padding-right: 5px;
+	white-space: nowrap;
+}
+
+td.number.nan {
+	font-weight: normal;
+	color: #AAA;
+}
+
+th.number {
+	text-align: right;
+}
+
+td.boolean {
+	text-align: center;
+}
+
+th.boolean {
+	text-align: center;
+}
+
+table img {
+	width: 12px;
+	height: 12px;
+}
+
+#th1 {
+	text-align: right;
+}
+
+#thelim {
+	font-size: 18px;
+	font-weight: bold;
+	cursor: help;
+}
