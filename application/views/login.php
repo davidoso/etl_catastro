@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es-MX">
 <head>
-    <title>CATASTRO | ETL </title>
+    <title>CATASTRO | ETL</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <base href="<?php echo base_url();?>">
@@ -13,8 +13,8 @@
 	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min.css">
 <!--===============================================================================================-->
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="css/utillogin.css">
-	<link rel="stylesheet" type="text/css" href="css/mainlogin.css">
+	<link rel="stylesheet" type="text/css" href="css/login_util.css">
+	<link rel="stylesheet" type="text/css" href="css/login_main.css">
 <!--===============================================================================================-->
 	<script src="js/jquery-3.3.1.min.js"></script>
 <!--===============================================================================================-->
@@ -119,6 +119,6 @@
 		}
 	</script>
 
-	<script src="js/mainlogin.js"></script>
+	<script src="js/login_main.js"></script>
 </body>
 </html>
